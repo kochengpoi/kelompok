@@ -77,12 +77,14 @@ $menu = [
             <option>Yogyakarta</option>
           </select>
 
-          <div class="btn-group mt-3" data-toggle="buttons" >
-            <label class="btn btn-outline-primary m5">
-              <input type="radio" class="none" name="options" id="option1"> Calon 1
+          <div class="btn-group mt-3 col" data-toggle="buttons" >
+            <label class="btn btn-outline-secondary m5 col-sm">
+              <input type="radio" class="none" name="options" id="option1">
+              <img style="width: 300px;" src="https://cdn-asset.jawapos.com/wp-content/uploads/2019/10/Karikatur-Jokowi-Maruf-560x390.jpg" class="rounded mx-auto d-block" alt="...">
             </label>
-            <label class="btn btn-outline-primary m5">
-              <input type="radio" class="none" name="options" id="option2"> Calon 2
+            <label class="btn btn-outline-secondary m5 col-sm">
+              <input type="radio" class="none" name="options" id="option2">
+              <img style="width: 300px;" src="https://static.republika.co.id/uploads/images/inpicture_slide/prabowo-subianto-dan-sandiaga-uno-_180924182315-697.jpg" class="rounded mx-auto d-block" alt="...">
             </label>
           </div>
 
